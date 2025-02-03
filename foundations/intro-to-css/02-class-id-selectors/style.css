@@ -1,6 +1,19 @@
 /* Styles for index.html */
- p  {
+ .odd  {
     background-color: rgb(247, 136, 124);
-    font-family: verdana, dejavu sans, sans-serif;
+    font-family: verdana, "dejavu sans", sans-serif;
+}
 
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: hsl(from blue h s l);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(130, 215, 130);
+    font-weight: bold;
 }
