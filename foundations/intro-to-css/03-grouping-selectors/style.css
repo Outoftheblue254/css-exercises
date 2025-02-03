@@ -1,0 +1,13 @@
+.element1
+{   background-color: hsl(from black h s l);
+    color: white;
+}
+.element2
+{   background-color: hsl(from yellow h s l);
+        
+}
+.element1,
+.element2
+{  font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
